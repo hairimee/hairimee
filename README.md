@@ -14,4 +14,4 @@
 
 ## 🤚🏻 Career
 - MS. Hanyang UNIV. Applied AI @MILab (2023~)
-- BS. Myoungji UNIV. Korean Literacture & Humanities ICT Contents (2017~2022)
+- BS. Myoungji UNIV. Korean Literature & Humanities ICT Contents (2017~2022)
