@@ -1,6 +1,5 @@
 # Hai,Rimee!
-##### An unconventional resume always stands out.
-##### It's likely to be quite unique and refreshing 💙
+##### An unconventional resume always stands out.It's likely to be quite unique and refreshing 💙
 
 ## 🤚🏻 Project
 - KOCCA [실감형 문화콘텐츠] PM(2023~)
