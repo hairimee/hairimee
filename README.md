@@ -16,8 +16,6 @@
 - MS. Hanyang UNIV. Applied AI @MILab (2023~)
 - BS. Myoungji UNIV. Korean Literature & Humanities ICT Contents (2017~2022)
 
-
-
 <div style="text-align: left;">
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white">
@@ -28,7 +26,10 @@
     </div>
     <div style="text-align: left;">
     <div style="text-align: left;"> <a href=mailto:haelim@hanyang.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haelim@hanyang.ac.kr"> </a>
-          </div>  <br> 
+
+
+   
+</div> 
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
