@@ -9,7 +9,7 @@
 - Daehaknaeil Corp. [Z Network] Marketing Assistant (2022)
 - Original Short Film. [IS RED] PD (2021)
 - Original Musical. [Nevertheless] PD (2019)
-- Tour Miso. Freelancr Marketer (2018 ~ 2019)
+- Tour Miso. Freelance Marketer (2018 ~ 2019)
 
 
 ## 🤚🏻 Career
