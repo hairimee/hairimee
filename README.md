@@ -23,8 +23,6 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=hairimee&bg_color=180,ffffff,00000000&title_color=8bb7fd&text_color=8bb7fd"
-         />
-    </div>
 
 <div style="text-align: right;">
     <div style="margin: ; text-align: right;" "text-align: right;"> <p> Stack: <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
@@ -36,3 +34,5 @@
     </div>
     <div style="text-align: left;">
     <div style="text-align: left;"> <p> Contact: <a href=mailto:haelim@hanyang.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haelim@hanyang.ac.kr"> </a>
+         />
+    </div>
