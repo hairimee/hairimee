@@ -1,6 +1,7 @@
 # Hai,Rimee!
 ##### An unconventional resume always stands out.It's likely to be quite unique and refreshing 💙
 ##### 👉🏻 A job that represents me: AI Engineer, UX Researcher, PM, PD, Marketer, Planner
+##### 👉🏻 Things I love: Poetry, Young Adult Literature, Drama, Movies, and anything that piques my curiosity."
 
 ## 🤚🏻 Project
 - KOCCA. [실감형 문화콘텐츠] PM(2023~)
