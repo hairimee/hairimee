@@ -1,6 +1,6 @@
 # Hai,Rimee!
 ##### An unconventional resume always stands out.It's likely to be quite unique and refreshing 💙
-##### A job that represents me: AI Engineer, UX Researcher, PM, PD, Marketer, Planner
+##### 👉🏻 A job that represents me: AI Engineer, UX Researcher, PM, PD, Marketer, Planner
 
 ## 🤚🏻 Project
 - KOCCA. [실감형 문화콘텐츠] PM(2023~)
