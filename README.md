@@ -17,11 +17,10 @@
 - BS. Myoungji UNIV. Korean Literature & Humanities ICT Contents (2017~2022)
 
 
-   
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <div style="text-align: left; display: flex; justify-content: space-between; align-items: center;">
+    <div style="display: flex; justify-content: space-between;">
         <div>
             <img src="https://github-readme-stats.vercel.app/api?username=hairimee&bg_color=180,ffffff,00000000&title_color=8bb7fd&text_color=8bb7fd">
         </div>
