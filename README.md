@@ -18,6 +18,7 @@
 
 <div style="text-align: left;">
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+        <p> Stack:
           <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
@@ -25,7 +26,7 @@
           <br/></div>
     </div>
     <div style="text-align: left;">
-    <div style="text-align: left;"> <a href=mailto:haelim@hanyang.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haelim@hanyang.ac.kr"> </a>
+    <div style="text-align: left;"> <p> Contact: <a href=mailto:haelim@hanyang.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haelim@hanyang.ac.kr"> </a>
 
 
    
