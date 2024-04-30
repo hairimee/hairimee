@@ -21,11 +21,11 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div style="display: flex; justify-content: space-between;">
-        <div>
+        <div style="width: 50%;"> <!-- 이 부분에 width를 추가 -->
             <img src="https://github-readme-stats.vercel.app/api?username=hairimee&bg_color=180,ffffff,00000000&title_color=8bb7fd&text_color=8bb7fd">
         </div>
-        <div style="text-align: right;">
-            <div style="margin:; text-align: right;">
+        <div style="width: 50%;"> <!-- 이 부분에 width를 추가 -->
+            <div style="text-align: right;">
                 <p> Stack:
                     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
                     <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white">
@@ -41,4 +41,5 @@
         </div>
     </div>
 </div>
+
 
