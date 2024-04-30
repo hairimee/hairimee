@@ -33,5 +33,4 @@
        </div>
        <div style="text-align: left;">
        <div style="text-align: left;"> <p> Contact: <a href=mailto:haelim@hanyang.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-     square&logo=Gmail&logoColor=white&link=mailto:haelim@hanyang.ac.kr"> </a>
-      />
  </div>
