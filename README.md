@@ -3,6 +3,7 @@
 ##### 👉🏻 A job that represents me: HCI Researcher, AI Engineer, UX Researcher, PM, PD, Marketer, Planner
 ##### 👉🏻 Things I love: Poetry, Young Adult Literature, Drama, Movies, and anything that piques my curiosity.
 
+
 ## 🤚🏻 Project
 - KOCCA. [실감형 문화콘텐츠] PM(2023~)
 - Dot. [시각장애인을 위한 닷 패드 내 동영상 햅틱 인터랙션] PM (2023~2024)
@@ -10,6 +11,12 @@
 - Original Short Film. [IS RED] PD (2021)
 - Original Musical. [Nevertheless] PD (2019)
 - Tour Miso. Freelance Marketer (2018 ~ 2019)
+
+
+## 🤚🏻 Award
+- 2023. LG전자 미래가전 아이디어 공모전 장려상
+- 2023. 경기도 <위아더픽쳐> 공모전 특별상
+- 2022. 명지대학교 공로상
 
 
 ## 🤚🏻 Career
