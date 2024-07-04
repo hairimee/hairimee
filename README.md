@@ -1,6 +1,6 @@
 # Hai,Rimee!
 ##### An unconventional resume always stands out.It's likely to be quite unique and refreshing 💙
-##### 👉🏻 A job that represents me: HCI Researcher, AI Engineer, UX Researcher, PM, PD, Marketer, Planner
+##### 👉🏻 A job that represents me: HCI Researcher, AI Engineer, UX Researcher, Product Manager, Producer, Marketer
 ##### 👉🏻 Things I love: Poetry, Young Adult Literature, Drama, Movies, and anything that piques my curiosity.
 
 
